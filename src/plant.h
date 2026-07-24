@@ -21,5 +21,6 @@ private:
 
 enum class PlantType
 {
-    BASIC
+    BASIC,
+    OXYFLORA
 };
