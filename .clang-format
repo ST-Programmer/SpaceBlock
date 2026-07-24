@@ -1,0 +1,19 @@
+BasedOnStyle: LLVM 
+
+# Universal layout alignments
+IndentWidth: 4
+TabWidth: 4
+UseTab: Never
+ColumnLimit: 100
+
+# Class member access modifier styling
+IndentAccessModifiers: false
+AccessModifierOffset: -4
+
+# Code block layout rules (Allman style)
+BreakBeforeBraces: Allman
+
+# Pointer and reference layouts (e.g., std::string& ref)
+PointerAlignment: Left
+DerivePointerAlignment: false
+AlwaysBreakAfterDefinitionReturnType: false 
