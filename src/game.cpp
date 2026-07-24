@@ -1,5 +1,5 @@
 #include "game.h"
-#include "noise/fastnoiselite.h"
+#include "FastNoiseLite/Cpp/FastNoiseLite.h"
 #include "player.h"
 #include "tile.h"
 #include <cstdint>
